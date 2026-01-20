@@ -2,6 +2,13 @@
 
 A Flutter task management application for gig workers built with clean architecture, BLoC state management, and Firebase backend.
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/login_screen.png" width="300" alt="Login Screen"/>
+  <img src="screenshots/home_screen.png" width="300" alt="Home Screen"/>
+</p>
+
 ## Features
 
 - **User Authentication**: Email/password registration and login using Firebase Authentication
